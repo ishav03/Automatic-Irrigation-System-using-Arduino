@@ -16,6 +16,3 @@ Watch the model in action in the "automatic irrigation.mp4" file.
     <li> Battery </li>
 </ul>
 
-<h3> Circuit Diagram </h3>
-
-![Alt text](image.png)
